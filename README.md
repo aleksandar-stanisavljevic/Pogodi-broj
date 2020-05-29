@@ -6,4 +6,4 @@ A player needs to guess a number from 10 attempts. In case he doesn't hit the nu
 
 During the game there is a small help that tells the player whether the selected number is less than or greater than the randomly selected number or outside the defined range of numbers.
 
-When the player guesses the number, the message CESTITAM appears on the screen and from which attempt he guessed the number.
+When the player guesses the number, the message CONGRATULATIONS! appears on the screen and from which attempt he guessed the number.
